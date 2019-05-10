@@ -1,4 +1,10 @@
-# exec-dash-starter-py
+Please run the script.
+Then you will be presented with an input option.
+Please choose in the correct format a file describing monthly sales between the periods of November 2017 to April 2019.
+Then you will be presented with the total sales as well as top selling products as well as a graph outlining the top selling products for that given month.
+
+
+<!-- # exec-dash-starter-py
 
 A starter repository for the "Executive Dashboard" project.
 
@@ -22,4 +28,4 @@ Process monthly sales data to generate a report of business insights:
 python monthly_sales.py
 ```
 
-## [License](/LICENSE.md)
+## [License](/LICENSE.md) -->
